@@ -7,6 +7,7 @@ public class Welcome {
 
 	public String welcome()
 	{
+		String name="Bhawna";
 		return null;
 		
 	}
